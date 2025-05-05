@@ -1,0 +1,5 @@
+@import "@vaadin/react-components/css/Lumo.css"; /*lumo freamwork css comme bootstrap*/
+@import "@vaadin/react-components/css/lumo/Utility.module.css";
+@import "@vaadin/react-components/css/lumo/Typography.css"; /*pour tout ce qui est police*/
+
+
